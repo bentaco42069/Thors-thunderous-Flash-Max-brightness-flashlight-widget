@@ -1,3 +1,4 @@
+# Deploys index.html to GitHub Pages (v2 - after enabling read/write workflow token)
 name: Deploy to GitHub Pages
 on:
   push:
