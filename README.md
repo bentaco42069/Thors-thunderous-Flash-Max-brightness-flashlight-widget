@@ -38,7 +38,7 @@ flashlight instead of the weak default.
 ## How to build & install it (on your PC)
 
 <div align="center">
-  <img src="assets/download.gif" alt="Get it — Download Thor's Thunderous Flash" width="300">
+  <a href="https://github.com/bentaco42069/Thors-thunderous-Flash-Max-brightness-flashlight-widget/archive/refs/heads/main.zip"><img src="assets/download.gif" alt="Get it — Download Thor's Thunderous Flash" width="300"></a>
 </div>
 
 You need to turn this source code into an installable `.apk` and put it on your
