@@ -1,13 +1,8 @@
 # Thor's Thunderous Flash ⚡
 
-![Thor's Thunderous Flash — banner](assets/banner.gif)
-
-![Max Brightness — lightning fills left to right](assets/max-brightness.gif)
-
-![Warning: High Intensity](assets/warning.gif)
-
-![Get it — Download Thor's Thunderous Flash](assets/download.gif)
-
+<div align="center">
+  <img src="assets/banner.gif" alt="Thor's Thunderous Flash" width="100%">
+</div>
 
 A dead-simple Android **home-screen widget** (and app icon) that turns on your
 phone's flashlight at **true maximum brightness** — the same ceiling the
@@ -26,6 +21,10 @@ flashlight instead of the weak default.
 > limit of the LED. This app's job is to reach that maximum, which your old
 > widget wasn't doing.
 
+<div align="center">
+  <img src="assets/max-brightness.gif" alt="Max Brightness — lightning fills left to right" width="85%">
+</div>
+
 ## What you get
 
 - **A home-screen widget** made from a real **Mjölnir photo** — cut out, stood
@@ -37,6 +36,10 @@ flashlight instead of the weak default.
 ---
 
 ## How to build & install it (on your PC)
+
+<div align="center">
+  <img src="assets/download.gif" alt="Get it — Download Thor's Thunderous Flash" width="300">
+</div>
 
 You need to turn this source code into an installable `.apk` and put it on your
 phone. The easiest way is **Android Studio**.
@@ -86,6 +89,10 @@ The APK lands at `app/build/outputs/apk/debug/app-debug.apk`.
 That's it. One press, brightest your phone can go.
 
 ---
+
+<div align="center">
+  <img src="assets/warning.gif" alt="Warning: High Intensity" width="70%">
+</div>
 
 ## Requirements & notes
 
