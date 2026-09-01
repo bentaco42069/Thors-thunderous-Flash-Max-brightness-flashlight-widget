@@ -1,5 +1,14 @@
 # Thor's Thunderous Flash ⚡
 
+![Thor's Thunderous Flash — banner](assets/banner.gif)
+
+![Max Brightness — lightning fills left to right](assets/max-brightness.gif)
+
+![Warning: High Intensity](assets/warning.gif)
+
+![Get it — Download Thor's Thunderous Flash](assets/download.gif)
+
+
 A dead-simple Android **home-screen widget** (and app icon) that turns on your
 phone's flashlight at **true maximum brightness** — the same ceiling the
 built-in flashlight button hits, not the dim level most widget apps settle for.
