@@ -35,56 +35,20 @@ flashlight instead of the weak default.
 
 ---
 
-## How to build & install it (on your PC)
+## How to install (Android)
 
 <div align="center">
   <img src="assets/warning.gif" alt="Warning: High Intensity" width="70%">
 </div>
 
-You need to turn this source code into an installable `.apk` and put it on your
-phone. The easiest way is **Android Studio**.
-
-### Option A — Android Studio (recommended)
-
-1. Install [Android Studio](https://developer.android.com/studio) (free).
-2. **File → Open** and select this `flashlight-widget` folder.
-3. Let it sync (it downloads the Android SDK the first time — just click
-   through the prompts).
-4. Plug your phone in over USB, or build an APK:
-   - **To install straight to a plugged-in phone:** enable USB debugging on the
-     phone (see below), then press the green **Run** ▶ button.
-   - **To get an APK file:** menu **Build → Build App Bundle(s) / APK(s) →
-     Build APK(s)**. When it finishes, click **locate** to find
-     `app/build/outputs/apk/debug/app-debug.apk`. Copy that to your phone and
-     tap it to install.
-
-### Option B — Command line
-
-From this folder, with the Android SDK installed and `ANDROID_HOME` set:
-
-```bash
-./gradlew assembleDebug
-```
-
-The APK lands at `app/build/outputs/apk/debug/app-debug.apk`.
-
----
-
-## Getting the APK onto your Samsung and enabling install
-
-1. **Allow install from unknown sources:** when you tap the APK, Android will
-   ask to allow your file manager / browser to install unknown apps — say yes.
-2. (For USB install instead) **Enable Developer Options + USB debugging:**
-   - Settings → **About phone** → **Software information** → tap **Build
-     number** 7 times.
-   - Back in Settings → **Developer options** → turn on **USB debugging**.
-
-## Adding the widget to your home screen
-
-1. **Long-press an empty spot** on your home screen → **Widgets**.
-2. Find **Thor's Thunderous Flash** in the list.
-3. **Drag the little flashlight** onto your home screen.
-4. Tap it — the LED fires at max. Tap again to turn it off.
+1. **Tap the Download button** — it saves the app file (`thors-thunderous-flash.apk`) to your **Downloads**.
+2. **Open it** — tap the file in Downloads (or the download popup).
+3. **First time only — let your phone install it:** Android asks *"Allow this source to install apps?"* → tap **Settings** → turn **Allow from this source** **On** → tap back.
+4. **Tap Install.**
+5. **Google will try to stop you — don't quit here.** A warning pops up (*"Unsafe app blocked"* / *"App not scanned"*). **Don't tap OK / Don't install.** Tap the little **pull-down arrow (More details)** to open it up, then tap **Install anyway** — it installs.
+   *(If it still refuses: Play Store → your profile picture → Play Protect → the ⚙ gear → turn **Scan apps with Play Protect** Off → install → turn it back On.)*
+6. **Add the widget:** press-and-hold an empty spot on your home screen → **Widgets** → find **Thor's Thunderous Flash** → drag it on.
+7. **Tap it** — flashlight blasts at max. Tap again to shut it off. ⚡
 
 That's it. One press, brightest your phone can go.
 
