@@ -52,6 +52,32 @@ flashlight instead of the weak default.
 
 That's it. One press, brightest your phone can go.
 
+## Still won't go? Every roadblock — and how to smash through it ⚡
+
+Some phones (especially Samsung) throw up extra blocks. Here's every one and the fix — all roads lead to the light.
+
+**Won't DOWNLOAD**
+- **"This type of file can harm your device"** → tap **Download anyway / Keep**. *(In Chrome: tap the **⋮** on the download bar → **Download anyway**.)*
+- **"Blocked as harmful"** → Chrome **⋮ → Downloads →** find the file **→ Download anyway / Keep**.
+- **Downloaded inside a chat app (WhatsApp / Messenger / Instagram) and the file is empty or won't open** → open the link in **Chrome** or **Samsung Internet** instead — a chat app's built-in browser can save a broken file. Tap **⋮ → Open in browser**, then download.
+- **Not enough space** → free up a little storage and re-download.
+
+**Won't OPEN (tapping the file does nothing)**
+- ⭐ **Samsung Auto Blocker is ON** — it blocks apps from outside the store, so the file won't open or install. **Settings → Security and privacy → Auto Blocker → turn it OFF**, install, then turn it back on. *(This is the #1 one people get stuck on.)*
+- **"Can't open file" / nothing happens** → open your **Files** app (or Chrome **⋮ → Downloads**), tap **thors-thunderous-flash.apk**, and choose **Package installer**.
+- **Saved as `.apk.zip` or a weird name** → rename it so it ends in **.apk**, or re-download.
+
+**Won't INSTALL**
+- **"Allow from this source" is off** → tap **Settings** on the prompt → turn **Allow from this source** ON. *(No prompt? **Settings → Apps → Special access → Install unknown apps →** pick your browser or Files **→ Allow**.)*
+- **Play Protect "Unsafe app blocked" / "not scanned"** → **More details → Install anyway.** Still fighting you? **Play Store → your profile picture → Play Protect → ⚙ → turn "Scan apps with Play Protect" OFF**, install, then turn it back on.
+- **"App not installed" / "invalid package"** → the download didn't finish — delete it and re-download. If an old copy is on the phone, uninstall it first.
+- **An old version is already installed** → uninstall the old **Thor's Thunderous Flash** first, then install.
+- **Package Installer is disabled** → **Settings → Apps → (show system apps) → Package installer → Enable.**
+- **Work / school phone or parental controls (Family Link)** → whoever manages the phone has to allow unknown apps; a fully locked-down phone may not allow it at all.
+- **A third-party antivirus is eating it** → whitelist the file, or pause the antivirus while you install.
+
+One of these clears it every time. ⚡🔨
+
 ---
 
 <div align="center">
