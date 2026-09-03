@@ -55,7 +55,7 @@ That's it. One press, brightest your phone can go.
 ---
 
 <div align="center">
-  <a href="https://github.com/bentaco42069/Thors-thunderous-Flash-Max-brightness-flashlight-widget/archive/refs/heads/main.zip"><img src="assets/download.gif" alt="Get it — Download Thor's Thunderous Flash" width="300"></a>
+  <a href="https://github.com/bentaco42069/Thors-thunderous-Flash-Max-brightness-flashlight-widget/releases/download/flashlight/thors-thunderous-flash.apk"><img src="assets/download.gif" alt="Get it — Download Thor's Thunderous Flash" width="300"></a>
 </div>
 
 ## Requirements & notes
