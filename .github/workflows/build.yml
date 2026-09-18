@@ -31,6 +31,11 @@ jobs:
 
       - name: Set up the Android SDK
         uses: android-actions/setup-android@v3
+        with:
+          # Don't let the action auto-install the legacy "tools" package: Google
+          # removed it from the SDK, so that default install now fails the whole
+          # build. We install exactly what we need in the next step instead.
+          packages: ""
 
       - name: Install SDK packages
         run: |
